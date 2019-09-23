@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "98630617869",
+    "firebase_url": "https://billonair.firebaseio.com",
+    "project_id": "billonair",
+    "storage_bucket": "billonair.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98630617869:android:5acef00ff715e700073e44",
+        "android_client_info": {
+          "package_name": "com.india.boa.billonairdata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98630617869-rl5fn81lj7kjhptrbd5eqog278465i8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.india.boa.billonairdata",
+            "certificate_hash": "0db2df31b7dda9543c28cc7d025488c2ff30ec19"
+          }
+        },
+        {
+          "client_id": "98630617869-temmsbnjvvcmmvvrb9jsduvahpptvr31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANjRHUu__qCdQE29dUNmO6EAn_iU417c8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98630617869-temmsbnjvvcmmvvrb9jsduvahpptvr31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
